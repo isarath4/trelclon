@@ -13,6 +13,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   elementNames:
   - elementName: ~Element Name~
+  - elementName: Dashboard page
+  - elementName: Data Page
   - elementName: FlashPage
   - elementName: InGameHud
   - elementName: LoginPage
@@ -20,6 +22,7 @@ MonoBehaviour:
   - elementName: MusicOFF
   - elementName: MusicON
   - elementName: NotificationsMenu
+  - elementName: options page
   - elementName: PauseMenu
   - elementName: QuitMenu
   - elementName: SettingsMenu
@@ -61,6 +64,7 @@ MonoBehaviour:
   - buttonName: GoToSettingsMenu
   - buttonName: GoToShopMenu
   - buttonName: Login
+  - buttonName: Options
   - buttonName: Signup
   - buttonName: ToggleMusic
   - buttonName: TogglePause
