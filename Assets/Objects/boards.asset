@@ -13,9 +13,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   boards:
     boards:
-    - content: board 1
+    - content: cboy
       index: 0
     - content: kamal
       index: 1
-    - content: board 3
+    - content: sarath
       index: 2
