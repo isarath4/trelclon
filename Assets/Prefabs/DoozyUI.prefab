@@ -875,6 +875,8 @@ GameObject:
   - component: {fileID: 223156038256192864}
   - component: {fileID: 114578597641741330}
   - component: {fileID: 114600777748488698}
+  - component: {fileID: 114842064959260064}
+  - component: {fileID: 114074482898056580}
   m_Layer: 5
   m_Name: Boards Page
   m_TagString: Untagged
@@ -1869,6 +1871,18 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Login
+--- !u!114 &114074482898056580
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1625749264848954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c8bc59a697b7754ebb05cc1c3c5cc47, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  path: /
 --- !u!114 &114075850636953316
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -9023,6 +9037,22 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+--- !u!114 &114842064959260064
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1625749264848954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f46b87e784cbfdf42aa9cddfd8218228, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boards:
+    boards: []
+  boardPrefab: {fileID: 114837971975695506, guid: 5018a74f337b855478aa434156192b67,
+    type: 2}
+  scrollParent: {fileID: 224603247460356216}
 --- !u!114 &114842768178695248
 MonoBehaviour:
   m_ObjectHideFlags: 1
