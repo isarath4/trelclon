@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "723621803442",
+    "firebase_url": "https://trello-c76ec.firebaseio.com",
+    "project_id": "trello-c76ec",
+    "storage_bucket": "trello-c76ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723621803442:android:e6add133f8410d16",
+        "android_client_info": {
+          "package_name": "com.innov8.trello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723621803442-llssjc6eheu3hjp8ej6tvhntdigeb5f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbYCK-tvCZbGGrH5mP6OFFWlwSagoHdpw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
