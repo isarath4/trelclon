@@ -13,21 +13,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   elementNames:
   - elementName: ~Element Name~
-  - elementName: Dashboard page
-  - elementName: Data Page
-  - elementName: FlashPage
   - elementName: InGameHud
-  - elementName: LoginPage
   - elementName: MainMenu
   - elementName: MusicOFF
   - elementName: MusicON
   - elementName: NotificationsMenu
-  - elementName: options page
   - elementName: PauseMenu
   - elementName: QuitMenu
   - elementName: SettingsMenu
   - elementName: ShopMenu
-  - elementName: Signup Page
   - elementName: SoundOFF
   - elementName: SoundON
   - elementName: Tab_1
@@ -63,15 +57,13 @@ MonoBehaviour:
   - buttonName: GoToQuitMenu
   - buttonName: GoToSettingsMenu
   - buttonName: GoToShopMenu
-  - buttonName: Login
-  - buttonName: Options
-  - buttonName: Signup
   - buttonName: ToggleMusic
   - buttonName: TogglePause
   - buttonName: ToggleSound
   buttonSounds:
   - onClickSound: ~No Sound~
   - onClickSound: Cartoon Car Toot-Toot
+  - onClickSound: Click Off
   - onClickSound: Click On
   - onClickSound: Pop
   - onClickSound: Spring
